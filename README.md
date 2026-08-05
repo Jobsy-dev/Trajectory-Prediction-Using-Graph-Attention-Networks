@@ -128,18 +128,5 @@ Run the notebooks sequentially:
 
 ---
 
-## 👨‍💻 Author
-
-**Jobsy Johnson**
-
-🎓 MSc Artificial Intelligence Engineering
-
-📍 Sweden
-
-GitHub: https://github.com/Jobsy-dev
-
-LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN/
-
----
 
 ## ⭐ If you found this project useful, please give it a star!
