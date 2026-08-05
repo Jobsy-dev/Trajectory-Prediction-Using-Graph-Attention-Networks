@@ -1,11 +1,7 @@
-# 🚀 Trajectory Prediction Using Graph-Based Deep Learning
+#  Trajectory Prediction Using Graph-Based Deep Learning
 
-![Python](https://img.shields.io/badge/Python-3.x-blue)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-Deep%20Learning-orange)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626)
-![Status](https://img.shields.io/badge/Status-Completed-success)
 
-## 📖 Overview
+##  Overview
 
 This project investigates trajectory prediction using graph-based deep learning techniques. It focuses on preprocessing graph-structured trajectory data, preparing graph representations, and building a deep learning workflow for predicting future trajectories.
 
@@ -13,7 +9,7 @@ The implementation is organized into three notebooks that demonstrate the comple
 
 ---
 
-## 🎯 Objectives
+##  Objectives
 
 - Load and preprocess trajectory datasets.
 - Prepare graph-structured data.
@@ -23,7 +19,7 @@ The implementation is organized into three notebooks that demonstrate the comple
 
 ---
 
-## 🛠 Technologies
+##  Technologies
 
 - Python
 - TensorFlow
@@ -36,7 +32,7 @@ The implementation is organized into three notebooks that demonstrate the comple
 
 ---
 
-## 📂 Repository Structure
+##  Repository Structure
 
 ```
 Trajectory-Prediction-Using-Graph-Attention-Networks/
@@ -49,7 +45,7 @@ Trajectory-Prediction-Using-Graph-Attention-Networks/
 
 ---
 
-## 📚 Project Workflow
+##  Project Workflow
 
 ### Task 1
 - Import required libraries
@@ -71,7 +67,7 @@ Trajectory-Prediction-Using-Graph-Attention-Networks/
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 Clone the repository
 
@@ -105,7 +101,7 @@ Run the notebooks sequentially:
 
 ---
 
-## 📈 Skills Demonstrated
+##  Skills Demonstrated
 
 - Graph Data Processing
 - Deep Learning
@@ -118,7 +114,7 @@ Run the notebooks sequentially:
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 - Implement Graph Attention Networks (GAT)
 - Compare GAT with GCN and LSTM models
@@ -128,5 +124,3 @@ Run the notebooks sequentially:
 
 ---
 
-
-## ⭐ If you found this project useful, please give it a star!
